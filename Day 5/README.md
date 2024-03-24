@@ -11,8 +11,8 @@ No worries - as a time travel agent in training, you can go to both parties!
 To make it easier to tell which timeline is which, you can create time portals! (We call these "branches".)
 
 <div align="center">
-  <img src="https://github.com/ArnabKumarRoy02/Learn-git/assets/86621483/b62a4fc8-d236-4fa2-afd5-3ec85d005b1e">
-  <p>Figure: Description of the image</p>
+  <img src="https://github.com/ArnabKumarRoy02/Learn-git/assets/86621483/b62a4fc8-d236-4fa2-afd5-3ec85d005b1e" width="400">
+  <p>Figure: Diagram of the problem describing the current state</p>
 </div>
 
 Questions:
