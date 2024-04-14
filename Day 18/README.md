@@ -16,7 +16,7 @@ Again, we want to make that our base reality - the `main` branch should point to
  - you
 
 <div align="center">
-    <img src="image.png" width=450>
+    <img src="https://github.com/ArnabKumarRoy02/Learn-git/assets/86621483/bb7a2fcf-fed9-4004-8805-e6486943a2f8" width=450>
     <p>Description of the problem.</p>
 </div>
 
@@ -41,6 +41,6 @@ git rebase donut
 ```
 
 <div align="center">
-    <img src="image-2.png" width=450>
+    <img src="https://github.com/ArnabKumarRoy02/Learn-git/assets/86621483/7fe34258-6212-4f59-a7bc-9ea925c9a080" width=450>
     <p>Description of the solution.</p>
 </div>
