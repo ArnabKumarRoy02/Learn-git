@@ -32,5 +32,5 @@ git stash push
 
 <div align="center">
   <img src="https://github.com/ArnabKumarRoy02/Learn-git/assets/86621483/7021cbde-c3f7-4630-81e3-fba57ceb0324" width=400>
-  <p>Description of the problem.</p>
+  <p>Description of the solution.</p>
 </div>
