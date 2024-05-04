@@ -1,6 +1,15 @@
 # Git Learning
 
-This repository would be a testing repo where I will be experimenting with all the functionality of git. 
-This is done in order to learn this platform.
+This repository is a testing repository where I will be experimenting with all the functionality of git. 
+This was done in order to learn this platform.
 
-Future Arnab would be very thankful of this repo. 😆
+All the questions and methods explained here are given by [Oh My Git!](https://ohmygit.org) and solved my me.
+
+It include different git topics:
+ - The basics
+ - Playing with branches
+ - Merging
+ - Index
+ - Remotes
+ - Stash
+ - Tags
